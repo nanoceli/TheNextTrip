@@ -1,0 +1,58 @@
+@media (max-width: 450px){ 
+    .input{
+        display: flex;
+        padding-left: 32%;
+        background: url("https://cdn2.iconfinder.com/data/icons/font-awesome/1792/search-512.png");
+        position: relative;
+        height: 80%;
+    }
+    
+    .input1{
+       text-indent: 13%;
+       font-size: 60%;
+       border-radius: 20px;
+       outline: none;
+    }
+    
+    .input2{
+        position:absolute;
+        height: 60%;
+        padding: 4px;
+    }
+    
+    .body{
+        display: flex;
+        justify-content: space-evenly;
+    }
+  }
+
+@media (min-width: 450px){ 
+    .input{
+        display: flex;
+        padding-left: 5rem;
+        background: url("https://cdn2.iconfinder.com/data/icons/font-awesome/1792/search-512.png");
+        position: relative;
+        height: 25px;
+    }
+    
+    .input1{
+       text-indent: 20px;
+       border-radius: 20px;
+       outline: none;
+    }
+    
+    .input2{
+        position:absolute;
+        height:15px;
+        padding: 4px;
+    }
+    
+    .body{
+        display: flex;
+        justify-content: space-evenly;
+    }
+  }
+
+
+
+

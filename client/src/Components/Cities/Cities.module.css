@@ -1,0 +1,27 @@
+@media (max-width: 450px){
+    .cities{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .body{
+        position: relative;
+        height: 65rem;
+    }    
+}
+
+@media (min-width: 450px){
+.cities{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+}
+
+.body{
+    display: flex;
+    border: 10px;
+}
+
+}

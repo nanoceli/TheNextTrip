@@ -1,0 +1,130 @@
+@media (max-width: 450px){
+    .body {
+        margin-left: 10%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 50%;
+        height: 4rem;
+        background-image: url('https://todostencil.com/11676-large_default/stencil-deco-composicion-190-mapa-mundi.jpg');
+        background-position: center;  
+        background-blend-mode: lighten;
+        background-size: 150%;
+        border-radius: 30px;
+        box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+        transition: all 0.5s cubic-bezier(.25,.8,.25,1);
+        margin-top: 9%;
+    }
+
+    :hover.body {
+        background-size: 200%;
+        transform: translateY(-5%);
+    }
+
+    .sflag{
+        width: 90%;
+        height: 5.2rem;
+        margin-right: 100%;
+        border-radius: 30px;           
+    } 
+
+    .titles{
+        position: relative;
+        margin-right: 15%;
+        text-shadow: 1px 1px rgba(black,0.5);
+        transition: all 0.5s cubic-bezier(.25,.8,.25,1);
+        font-size: 50%;
+    }
+
+    .continent{
+        font-size: 70%;
+        font-weight: 600;
+        line-height: 0;
+        filter: drop-shadow(1px 1px 1px white);
+    }
+
+    .name{
+        font-weight: 9000;
+        line-height: 1;
+        margin-bottom: 0px;
+        text-decoration:none;
+        filter: drop-shadow(0px 0 0.75rem red);
+    }
+}
+
+@media (min-width: 450px){
+.body {
+	position: relative;
+	display: flex;
+	justify-content: center;
+    align-items: center;
+	width: 270px;
+	height: 290px;
+	background-image: url('https://todostencil.com/11676-large_default/stencil-deco-composicion-190-mapa-mundi.jpg');
+	background-position: center;  
+    background-blend-mode: lighten;
+	background-repeat: no-repeat;
+	background-size: 150%;
+	border-radius: 30px;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	transition: all 0.5s cubic-bezier(.25,.8,.25,1);
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+:hover.body {
+    background-size: 200%;
+    transform: translateY(-5%);
+}
+
+.titles{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-shadow: 1px 1px rgba(black,0.7);
+    transition: all 0.5s cubic-bezier(.25,.8,.25,1);
+    margin-top: 100px;
+    padding-top: 9rem;
+}
+
+.name{
+    font-weight: 9000;
+    font-size: 23px;
+	line-height: 1;
+    margin-bottom: 0px;
+    text-decoration:none;
+    filter: drop-shadow(0px 0 0.75rem red);
+} 
+
+.continent{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 0;
+    filter: drop-shadow(1px 1px 1px white);
+}
+
+.sflag{
+    width: 18rem;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    height: 12rem;
+    margin-bottom: 100px;
+    border-radius: 30px;
+    color: white;
+    transition: all 0.5s cubic-bezier(.25,.8,.25,1);;
+    z-index: 1;
+    
+} 
+}
+
+
+
+
+
+
+
+
+

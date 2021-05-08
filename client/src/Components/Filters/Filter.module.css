@@ -1,0 +1,62 @@
+@media (max-width: 450px){   
+    .continents{
+        border: 0;
+        color:green;
+        font-size: 70%;
+        font-weight: bold;
+        padding: 2px 10px;
+        -webkit-appearance: none;     
+        outline:none;
+        cursor: pointer;
+        border-right: 1rem;
+        background-color: black;
+}
+
+.continentsn{
+    border: 0;
+    color: green;
+    font-size: 80%;
+    font-weight: bold;
+    -webkit-appearance: none;     
+    outline:none;
+    border-radius: 20%;
+    background-color: black;
+    white-space: nowrap;
+}
+
+}
+
+@media (min-width: 450px){   
+.continents{
+        border: 0;
+        color:green;
+        background: transparent;
+        font-size: 15px;
+        font-weight: bold;
+        padding: 2px 10px;
+        width: 100px;
+        *width: 350px;
+        *background: #58B14C;
+        -webkit-appearance: none;     
+        outline:none;
+        cursor: pointer;
+}
+
+.continentsn{
+    border: 0;
+    color:green;
+    background: transparent;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 2px 10px;
+    width: 100px;
+    *width: 350px;
+    *background: #58B14C;
+    -webkit-appearance: none;     
+    outline:none;
+}
+
+.form{
+    margin-right: 2rem;
+}
+}

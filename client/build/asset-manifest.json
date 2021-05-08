@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e70c8dd.chunk.css",
+    "main.js": "/static/js/main.dd6df03c.chunk.js",
+    "main.js.map": "/static/js/main.dd6df03c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ad246e91.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ad246e91.js.map",
+    "static/js/2.c0280646.chunk.js": "/static/js/2.c0280646.chunk.js",
+    "static/js/2.c0280646.chunk.js.map": "/static/js/2.c0280646.chunk.js.map",
+    "static/js/3.8e4b0f69.chunk.js": "/static/js/3.8e4b0f69.chunk.js",
+    "static/js/3.8e4b0f69.chunk.js.map": "/static/js/3.8e4b0f69.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1e70c8dd.chunk.css.map": "/static/css/main.1e70c8dd.chunk.css.map",
+    "static/js/2.c0280646.chunk.js.LICENSE.txt": "/static/js/2.c0280646.chunk.js.LICENSE.txt",
+    "static/media/FotoCv2redcida.9905e883.jpg": "/static/media/FotoCv2redcida.9905e883.jpg",
+    "static/media/left-arrow.cb2f5b85.svg": "/static/media/left-arrow.cb2f5b85.svg",
+    "static/media/right-arrow.093c251e.svg": "/static/media/right-arrow.093c251e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad246e91.js",
+    "static/js/2.c0280646.chunk.js",
+    "static/css/main.1e70c8dd.chunk.css",
+    "static/js/main.dd6df03c.chunk.js"
+  ]
+}
