@@ -1,4 +1,8 @@
 <h1>The Next Trip</h1>
+
+<p color="green">Hi there! Welcome to my project. In this case, you can search for countries in the world, with detailed information and a photo of their flag. You can also use filters to simplify the search, by tourist activities, population, continent or alphabetical order. You can also create tourist activities.
+Enjoy it!</p>
+
 <h3>Main technologies</h3>
 <p>> React Js <img width="20px" heigth="20px" src="client\Images\react-2.svg"></p>
 <p>> Redux <img width="20px" heigth="20px" src="client\Images\redux.svg"></p>
@@ -20,9 +24,9 @@
 <p>> Create a SQL database</p>
 <p>> Create an .env file inside /api with the following:
 
-<p><p color="blue">DB_USER=</P>[your_user]</p>
-<p><p color="blue">DB_PASSWORD=</P>[your_pass]</p>
-<p><p color="blue">DB_HOST=</P>localhost</p>
+<p>DB_USER=<p>[your_user]</p></p>
+<p>DB_PASSWORD=[your_pass]</p>
+<p>DB_HOST=localhost</p>
 
 <p>> Install node modules with "npm i" in both directories /api and /client</p>
 <p>> Start both with "npm start"</p>
