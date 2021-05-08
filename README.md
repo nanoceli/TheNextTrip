@@ -24,11 +24,11 @@ Enjoy it!</p>
 <p>> Create a SQL database</p>
 <p>> Create an .env file inside /api with the following:
 
-
+<p></p>
 <p>DB_USER=[your_user]</p>
 <p>DB_PASSWORD=[your_pass]</p>
 <p>DB_HOST=localhost</p>
-
+<p></p>
 
 <p>> Install node modules with "npm i" in both directories /api and /client</p>
 <p>> Start both with "npm start"</p>
